@@ -1,0 +1,66 @@
+
+/* This is Week2.css style sheet for Week 2 assignment, modifying Week 1 assignment by creating columns */
+
+/* This is for the top bar */
+#nav {
+    padding:7px 12px;
+    background:rgba(81, 224, 52, 0.884);
+    color: rgba(12, 29, 182, 0.671);
+    height: 30px;
+    text-align: center;
+}
+
+/* This is for the background body page */
+
+body, html {
+    margin:0;
+    padding:0;
+    background:#f3e2f3;
+}
+
+/* This is for the left side bar, working on changing colors for the text */
+#sidebar {
+    float:left;
+    width:300px;
+    padding:10px;
+    background:rgba(139, 223, 226, 0.945);
+}
+
+/* This is for the text h1 */
+h2{
+    color: rgb(137, 50, 187);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* This is for text h2 which includes the center text on the body and the side bar title */
+h3{
+    color: rgb(14, 54, 230);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+
+   /* This is for the text in the upper-middle of the body */
+p{
+    color:black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+/* This is for the text in the lower-middle section of the body */
+
+ul{
+    color:rgb(184, 18, 148);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* This is for the bulleted list, working on aligning to flush left center */
+li{
+    color: green; 
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+
+
